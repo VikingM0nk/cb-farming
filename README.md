@@ -15,4 +15,4 @@ This script allows players to pick fruits and vegetables from designated areas i
 - ox_inventory
 
 # Help and Support
-If you require any assistance with this script or run into any issues, I would be happy to assist you. Please open a ticket in my [Discord](https://discord.gg/FQtN5FXcG5)
+If you require any assistance with this script or run into any issues, I would be happy to assist you. Please open a ticket in my [Discord](https://discord.gg/Jwm8NVj22P)
