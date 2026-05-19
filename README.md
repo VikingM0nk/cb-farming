@@ -1,7 +1,7 @@
 ![Intro Card](https://docs.coolbrad.com/images/README/CB-Farming.png)
 
 ## Description
-This script allows players to pick fruits and vegetables from designated areas in the config.lua. Out of the box we offer 9 different locations ranging from trees to plants, but you can easily add more.
+This script allows players to pick fruits and vegetables from designated areas in the config.lua. Out of the box we offer 9 different locations ranging from trees to plants, but you can easily add more. There is also a Farmers market now to be able to sell fruits and vegitables
 
 
 ## Features:
