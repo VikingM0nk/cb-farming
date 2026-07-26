@@ -1,5 +1,3 @@
-![Intro Card](https://docs.coolbrad.com/images/README/CB-Farming.png)
-
 ## Description
 This script allows players to pick fruits and vegetables from designated areas in the config.lua. Out of the box we offer 9 different locations ranging from trees to plants, but you can easily add more. There is also a Farmers market now to be able to sell fruits and vegitables
 
@@ -14,5 +12,3 @@ This script allows players to pick fruits and vegetables from designated areas i
 - QB-Core / QBOX
 - ox_inventory
 
-# Help and Support
-If you require any assistance with this script or run into any issues, I would be happy to assist you. Please open a ticket in my [Discord](https://discord.gg/Jwm8NVj22P)
